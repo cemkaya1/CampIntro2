@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampIntro", "CampIntro\CampIntro.csproj", "{3FEB0FB1-C193-4777-9469-0AD27669A0D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{3FEB0FB1-C193-4777-9469-0AD27669A0D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{6F1C25FF-44DE-4353-A335-E5507B3D866B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{6F1C25FF-44DE-4353-A335-E5507B3D866B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{9486945A-8F86-4C28-8411-E27D038F17CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{9486945A-8F86-4C28-8411-E27D038F17CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork6", "Example\HomeWork6.csproj", "{39952DAE-9ACC-4148-83FE-DCD912AA8204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork6", "Example\HomeWork6.csproj", "{39952DAE-9ACC-4148-83FE-DCD912AA8204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{6A1F49D3-7D67-48D9-8DA1-FC6A4630D5F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{6A1F49D3-7D67-48D9-8DA1-FC6A4630D5F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematic", "Mathematic\Mathematic.csproj", "{87A572E5-F55B-49AE-B481-5C9D5CCD06B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematic", "Mathematic\Mathematic.csproj", "{87A572E5-F55B-49AE-B481-5C9D5CCD06B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferanceTypes", "ValueAndReferanceTypes\ValueAndReferanceTypes.csproj", "{FEBD8B62-11D7-4589-9F6B-3A1050BDA80B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferanceTypes", "ValueAndReferanceTypes\ValueAndReferanceTypes.csproj", "{FEBD8B62-11D7-4589-9F6B-3A1050BDA80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodsDemo", "ClassMethodsDemo\ClassMethodsDemo.csproj", "{6A2E417C-DAAD-4566-8C61-DA70B6807363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FEBD8B62-11D7-4589-9F6B-3A1050BDA80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBD8B62-11D7-4589-9F6B-3A1050BDA80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBD8B62-11D7-4589-9F6B-3A1050BDA80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2E417C-DAAD-4566-8C61-DA70B6807363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2E417C-DAAD-4566-8C61-DA70B6807363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2E417C-DAAD-4566-8C61-DA70B6807363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2E417C-DAAD-4566-8C61-DA70B6807363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
