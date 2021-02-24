@@ -24,11 +24,6 @@ namespace CollectionsMyDictionary
                 key[i] = tempKey[i];
                 value[i] = tempValue[i];
             }
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    key[i] = tempKey[i];
-            //    value[i] = tempValue[i];
-            //}
             key[key.Length - 1] = keyItem;
             value[value.Length - 1] = valueItem;
         }
